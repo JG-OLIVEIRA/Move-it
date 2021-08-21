@@ -5,25 +5,28 @@ import Profile from "../components/Profile";
 import styles from "../styles/pages/Home.module.css";
 import Head from "next/head";
 import ChallengeBox from "../components/ChallengeBox";
+import { CountdownProvider } from "../context/CountdownContext";
 
 export default function Home() {
   return (
     <div className={styles.container}>
       <ExperienceBar />
       <Head>
-        <title>Inicio | Movit it</title>
+        <title>Inicio | movi.it</title>
       </Head>
 
-      <section>
-        <div>
-          <Profile />
-          <CompletedChallenges />
-          <Countdown />
-        </div>
-        <div>
-          <ChallengeBox />
-        </div>
-      </section>
+      <CountdownProvider>
+        <section>
+          <div>
+            <Profile />
+            <CompletedChallenges />
+            <Countdown />
+          </div>
+          <div>
+            <ChallengeBox />
+          </div>
+        </section>
+      </CountdownProvider>
     </div>
   );
 }

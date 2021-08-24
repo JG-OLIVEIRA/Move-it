@@ -1,34 +1,74 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+   <img src="https://raw.githubusercontent.com/tavareshenrique/moveit-nlw/0b786b8b8a18788f7d854a176a26e9ccc3d5f28a/public/logo.svg" alt="MoveIt" width="280"/>
+</p>
 
-## Getting Started
+<p align="center">
+   <a href="https://www.linkedin.com/in/jorge-gon%C3%A7alves-de-oliveira-7570771a2/">
+      <img alt="Jorge Oliveira" src="https://img.shields.io/badge/-Jorge Oliveira-4e5acf?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+ <img alt="Repository size" src="https://img.shields.io/github/repo-size/JG-OLIVEIRA/moveit?color=4e5acf">
 
-First, run the development server:
+  <a aria-label="Last Commit" href="https://github.com/JG-OLIVEIRA/moveit/commits/master">
+    <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/JG-OLIVEIRA/moveit?color=4e5acf">
+  </a>
+  <a href="https://github.com/JG-OLIVEIRA/moveit/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JG-OLIVEIRA/moveit?color=4e5acf">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-4e5acf">
+</p>
+
+# Descrição
+
+Projeto Frontend criado durante a NLW-4 da [Rocketseat](https://github.com/Rocketseat) que consiste em uma aplicação web de gestão de tempo. Gerencie seu tempo realizando atividades com a técnica pomodoro. Ao conclui-la receberá um exercício de maneira randômica e caso completá-lo receberá experiência.
+
+<img src="./.github/Captura%20de%20Tela%20(34).png">
+<img src="./.github/Captura%20de%20Tela%20(36).png">
+<img src="./.github/Captura%20de%20Tela%20(38).png">
+<img src="./.github/Captura%20de%20Tela%20(40).png">
+
+## Instalação
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Primeiro, você precisa clonar o repositório na sua maquina
+
+$ git clone https://github.com/JG-OLIVEIRA/moveit.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Antes da próxima etapa, verifique se você possui o pacote [NPM](https://www.npmjs.com/) e o software [NODE](https://nodejs.org/en/) instalado na sua máquina.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+# Agora vá até a raiz do projeto e rode o seguinte comando
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+$ npm install
+OU
+$ npm i
+```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Finalmente, ainda no diretório, rode o seguinte comando:
 
-## Learn More
+```bash
+$ npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+Acesse http://localhost:3000 para ver o resultado.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Tecnologias
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- [NextJS](https://github.com/vercel/next.js/)
+- [React](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Axios](https://github.com/axios/axios)
+- [js-cookie](https://github.com/js-cookie/js-cookie)
+- [react-confetti](https://github.com/alampros/react-confetti#readme)
+- [sweetalert](https://github.com/t4t5/sweetalert)
+- [ESLint](https://github.com/eslint/eslint)
 
-## Deploy on Vercel
+<div align="center">
+  <sub>O <strong>MoveIt</strong> foi desenvolvido com ❤︎ pelo
+    <a href="https://github.com/JG-OLIVEIRA">Jorge Oliveira</a>
+  </sub>
+</div>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Licença
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Este projeto está sob a licença [MIT](./LICENSE).

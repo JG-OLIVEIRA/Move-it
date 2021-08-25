@@ -59,8 +59,6 @@ Acesse http://localhost:3000 para ver o resultado.
 - [Typescript](https://www.typescriptlang.org/)
 - [Axios](https://github.com/axios/axios)
 - [js-cookie](https://github.com/js-cookie/js-cookie)
-- [react-confetti](https://github.com/alampros/react-confetti#readme)
-- [sweetalert](https://github.com/t4t5/sweetalert)
 - [ESLint](https://github.com/eslint/eslint)
 
 <div align="center">

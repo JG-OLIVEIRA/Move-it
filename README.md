@@ -21,11 +21,6 @@
 
 Projeto Frontend criado durante a NLW-4 da [Rocketseat](https://github.com/Rocketseat) que consiste em uma aplicação web de gestão de tempo. Gerencie seu tempo realizando atividades com a técnica pomodoro. Ao conclui-la receberá um exercício de maneira randômica e caso completá-lo receberá experiência.
 
-<img src="./.github/Captura%20de%20Tela%20(34).png">
-<img src="./.github/Captura%20de%20Tela%20(36).png">
-<img src="./.github/Captura%20de%20Tela%20(38).png">
-<img src="./.github/Captura%20de%20Tela%20(40).png">
-
 ## Instalação
 
 ```bash

@@ -23,26 +23,26 @@ Projeto Frontend criado durante a NLW-4 da [Rocketseat](https://github.com/Rocke
 
 ## Instalação
 
-```bash
-# Primeiro, você precisa clonar o repositório na sua maquina
+Primeiro, você precisa clonar o repositório na sua maquina
 
-$ git clone https://github.com/JG-OLIVEIRA/moveit.git
+```bash
+git clone https://github.com/JG-OLIVEIRA/moveit.git
 ```
 
 Antes da próxima etapa, verifique se você possui o pacote [NPM](https://www.npmjs.com/) e o software [NODE](https://nodejs.org/en/) instalado na sua máquina.
 
-```bash
-# Agora vá até a raiz do projeto e rode o seguinte comando
+Agora vá até a raiz do projeto e rode o seguinte comando
 
-$ npm install
-OU
-$ npm i
+```bash
+npm install
 ```
+
+## Rodando o frontend
 
 Finalmente, ainda no diretório, rode o seguinte comando:
 
 ```bash
-$ npm run dev
+npm run dev
 ```
 
 Acesse http://localhost:3000 para ver o resultado.

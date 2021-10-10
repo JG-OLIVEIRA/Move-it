@@ -42,7 +42,7 @@ Acesse http://localhost:3000 para ver o resultado.
 - [ESLint](https://github.com/eslint/eslint)
 
 <div align="center">
-  <sub>O <strong>MoveIt</strong> foi desenvolvido com ❤︎ pelo
+  <sub>O <strong>Move.it</strong> foi desenvolvido com ❤︎ pelo
     <a href="https://github.com/JG-OLIVEIRA">Jorge Oliveira</a>
   </sub>
 </div>

@@ -2,21 +2,6 @@
    <img src="https://raw.githubusercontent.com/tavareshenrique/moveit-nlw/0b786b8b8a18788f7d854a176a26e9ccc3d5f28a/public/logo.svg" alt="MoveIt" width="280"/>
 </p>
 
-<p align="center">
-   <a href="https://www.linkedin.com/in/jorge-gon%C3%A7alves-de-oliveira-7570771a2/">
-      <img alt="Jorge Oliveira" src="https://img.shields.io/badge/-Jorge Oliveira-4e5acf?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
- <img alt="Repository size" src="https://img.shields.io/github/repo-size/JG-OLIVEIRA/moveit?color=4e5acf">
-
-  <a aria-label="Last Commit" href="https://github.com/JG-OLIVEIRA/moveit/commits/master">
-    <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/JG-OLIVEIRA/moveit?color=4e5acf">
-  </a>
-  <a href="https://github.com/JG-OLIVEIRA/moveit/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JG-OLIVEIRA/moveit?color=4e5acf">
-  </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-4e5acf">
-</p>
-
 # Descrição
 
 Projeto Frontend criado durante a NLW-4 da [Rocketseat](https://github.com/Rocketseat) que consiste em uma aplicação web de gestão de tempo. Gerencie seu tempo realizando atividades com a técnica pomodoro. Ao conclui-la receberá um exercício de maneira randômica e caso completá-lo receberá experiência.
